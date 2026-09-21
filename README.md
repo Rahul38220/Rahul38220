@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there, I'm Rahul
 
+🔭  High school student passionate about computer science, problem-solving, and building cool projects.
 <!--
 **Rahul38220/Rahul38220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
